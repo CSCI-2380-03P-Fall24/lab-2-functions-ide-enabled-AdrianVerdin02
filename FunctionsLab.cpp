@@ -11,6 +11,9 @@ using namespace std; // making life easier so that we do not need to use std::ci
 
 
 int locateSmallest(int array[], int start, int end){
+	for (start <= end; start++){
+		if(start < end;)
+	}
 	return -1; // fix this!
 }
 
@@ -26,9 +29,9 @@ void replaceVariable() {
 
 
 
-//write a function called printArray to print out the elements of the given array
-//output: nothing
-//input: the array of integers and its size
+// write a function called printArray to print out the elements of the given array
+// output: nothing
+// input: the array of integers and its size
 void printArray() {
 	return;
 }
